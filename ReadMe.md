@@ -12,7 +12,7 @@ I created a budget application using using Jvascript. This aplication not only g
 
 ##### JS code snippetd that are helpful!
 
-Clearing HTML fieds and and converting a list to an array (mainly using querrySelectorAll & for each method)....
+Clearing HTML fieds and and converting a list to an array (mainly using querrySelectorAll & for each method)
 
 ```JavaScript
 clearFields: function() {
